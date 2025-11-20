@@ -20,5 +20,4 @@ Currently, I am working on:
 You can find more details here:
 
 - [Research]({{ '/research/' | relative_url }})
-- [Publications]({{ '/publications/' | relative_url }})
 - [CV]({{ '/cv/' | relative_url }})
