@@ -27,7 +27,7 @@ author:
   avatar           : "profile.png"
   name             : "Yinyu Yao"
   pronouns         : # example: "she/her"  
-  bio              : "BS–MS student in Statistics & Operations Research and Mathematics at UNC–Chapel Hill. My research focuses on optimization algorithms (block-coordinate BFGS for convex non-smooth problems) and data-driven operations, especially machine learning for EMS stroke triage."
+  bio              : "BS–MS student in Statistics & Operations Research and Mathematics at UNC–Chapel Hill."
   location         : "Chapel Hill, NC, USA"
   employer         : "University of North Carolina at Chapel Hill"
   uri              : # URL
