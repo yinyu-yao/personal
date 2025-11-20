@@ -6,13 +6,19 @@ author_profile: true
 
 Welcome! I am **Yinyu Yao**, a BS–MS student in Statistics & Operations Research and Mathematics at the University of North Carolina at Chapel Hill.
 
-My research focuses on:
+My current research focuses on:
 
-- Optimization algorithms, especially block-coordinate BFGS methods for convex non-smooth problems  
+- Second-order optimization algorithms for non-smooth problems  
 - Data-driven operations and healthcare operations  
-- Machine learning for EMS stroke triage using linked EMS–hospital data  
+- Machine learning for operations 
 
 Currently, I am working on:
 
-- **Block-coordinate BFGS for convex non-smooth optimization** (with Michael O’Neill), comparing quasi-Newton–style block updates to proximal-gradient baselines on large-scale structured problems.  
-- **Data-driven EMS stroke triage** (with Ali Parlaktürk, et al.), designing constrained ML decision rules that reduce false negatives for high-risk stroke patients while keeping false positives within operational limits.
+## Block-coordinate BFGS for convex non-smooth optimization** (with Michael O’Neill)
+- Comparing quasi-Newton–style block-coordinate updates to proximal-gradient baselines on large-scale overlapped non-smooth structured problems.
+- **Status:** Submitted to Computational Optimization and Applications
+- **Draft:** [Manuscript PDF]({{ '/files/Block_BFGS_paper.pdf' | relative_url }})
+  
+## Data-driven EMS stroke triage** (with Ali Parlaktürk, Chudi Zhong)
+- Designing constrained ML decision rules that reduce false negatives for high-risk stroke patients while keeping false positives within operational limits.
+- **Status:** Manuscript in preparation
