@@ -6,7 +6,6 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
 locale      : "en-US"
 site_theme  : "default"
 title       : "Yinyu Yao"
@@ -14,11 +13,9 @@ title_separator : "-"
 name        : &name "Yinyu Yao"
 description : &description "BS–MS student in Statistics & Operations Research and Mathematics at UNC–Chapel Hill."
 
-# IMPORTANT: these two lines must match your new account + repo
-url         : "https://yinyu-yao.github.io"
-baseurl     : "/personal"
+url         : "https://yinyu-yao.github.io"   # NO /personal here
+baseurl     : "/personal"                     # repo name WITH leading slash
 
-# Also update this:
 repository  : "yinyu-yao/personal"
 
 
