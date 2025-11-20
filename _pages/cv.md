@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download CV (PDF)](/files/Yinyu_Yao_CV.pdf)
+[Download CV (PDF)]({{ site.baseurl }}/files/Yinyu_Yao_CV.pdf)
 
 ## Education
 
