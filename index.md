@@ -16,7 +16,7 @@ Currently, I am working on:
 
 ## Block-coordinate BFGS for convex non-smooth optimization (with Michael O’Neill)
 - Comparing quasi-Newton–style block-coordinate updates to proximal-gradient baselines on large-scale overlapped non-smooth structured problems.
-- Submitted to *Computational Optimization and Applications* [Manuscript PDF]({{ '/files/Block_BFGS_paper.pdf' | relative_url }})
+- Manuscript in preparation for submission to *Computational Optimization and Applications* [Manuscript PDF]({{ '/files/Block_BFGS_paper.pdf' | relative_url }})
   
 ## Data-driven EMS stroke triage (with Ali Parlaktürk, Chudi Zhong)
 - Designing constrained ML decision rules that reduce false negatives for high-risk stroke patients while keeping false positives within operational limits.
