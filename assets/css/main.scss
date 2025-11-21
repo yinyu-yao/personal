@@ -41,25 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* UNC blue background for the whole site */
-body,
-.page,
-.page__inner {
-  background-color: #9BC4E2 !important; /* UNC blue */
-}
-
-/* Let content sit on the blue (no white card) */
-.page__content {
-  background-color: transparent !important;
-}
-
-/* Keep the top nav white */
-.masthead,
-.masthead__inner-wrap {
-  background-color: #9BC4E2 !important;
-}
-
-/* Footer matches the page background */
-.page__footer {
-  background-color: #9BC4E2 !important;
-}
