@@ -16,7 +16,7 @@ repository  : "yinyu-yao/personal"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yinyuyao.png"
   name             : "Yinyu Yao"
   pronouns         : "he/him/his"  
   bio              : "BS–MS student in Statistics & Operations Research and Mathematics at UNC–Chapel Hill."
